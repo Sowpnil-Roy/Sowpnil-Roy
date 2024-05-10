@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Sowpnil-Roy/Sowpnil-Roy/blob/main/Sowpnil%20Roy.gif)
+![MasterHead](https://github.com/Sowpnil-Roy/Sowpnil-Roy/blob/main/Roy.gif)
 
 <h1 align="center">Hi 👋, I'm Sowpnil Roy</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
