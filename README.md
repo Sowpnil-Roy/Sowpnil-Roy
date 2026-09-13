@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Cryptography**
 
-- 👨‍💻 All of my projects are available at [https://sowpnil-roy.github.io/sr/](https://sowpnil-roy.github.io/sr/)
+- 👨‍💻 All of my projects are available at [http://sowpnil-roy.github.io/portfolio](http://sowpnil-roy.github.io/portfolio)
 
 - 💬 Ask me about **Android Studio, UI/UX also Graphic Design**
 
